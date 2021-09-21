@@ -1,7 +1,7 @@
 {
   "actions": [
     {
-      "say": "The https://google.com server responded <b>with response<b> 1 <a href=\"tel:123-456-7890\">123-456-7890</a>"
+      "say": "The https://google.com server responded +79626220239"
     },
     {
       "listen": true
