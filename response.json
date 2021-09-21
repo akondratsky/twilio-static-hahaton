@@ -1,0 +1,10 @@
+{
+  "actions": [
+    {
+      "say": "The server responded"
+    },
+    {
+      "listen": true
+    }
+  ]
+}
