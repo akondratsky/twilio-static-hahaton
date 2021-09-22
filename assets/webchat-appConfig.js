@@ -4,6 +4,12 @@ var appConfig = {
     // change to your Flex Flow SID
     flexFlowSid: "FOfc6f48ddefc75a771a3832ca42cf0997",
     colorTheme: {
-        // overrides: brandedColors
+        overrides: {
+          EntryPoint: {
+            Container: {
+              boxShadow: '0px 0 50px 70px white'
+            }
+          }
+        }
     }
 }
