@@ -9,7 +9,10 @@ var appConfig = {
             Container: {
               boxShadow: '0px 0 50px 70px white'
             }
-          }
+          },
+          MainContainer: {
+            zIndex: 999,
+          },
         }
     }
 }
